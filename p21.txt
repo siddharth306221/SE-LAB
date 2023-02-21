@@ -1,0 +1,45 @@
+<html>
+
+   <head>
+      <title>Using Image in Webpage</title>
+   </head>
+	
+   <body>
+      <p>Simple Image Insert</p>
+      <img src = "C:\Users\Lenovo\Downloads\golden-retriever-dog-21668976.jpg"/>
+<pre>
+Golden Retrievers are a very popular kind of dog. When the breed was first created, they were used for hunting. 
+Now, they are sometimes used for hunting, but a lot of people like to have them as pets because they are very friendly. People also like them because their face looks like they are smiling all the time. 
+Because they are so friendly, Golden Retrievers cannot be used as guard dogs, but they are good as drug dogs at airports and very good as service dogs for the blind (People who cannot see). They also like people, so when they are left alone for too long, they get very sad. 
+Golden retrievers make very good pets because they are friendly and playful
+</pre>
+<hr style="width:50%">
+<hr colour="red">
+</hr>
+<P>
+*
+**
+***
+****
+</p>
+<table>
+<caption allign="top">Monthly savings</caption>
+<tr>
+<th>cell 1</td>
+<th>cell 2</td>
+<th>cell 3</td>
+</tr>
+<tr>
+<td>cell 1</td>
+<td>cell 2</td>
+<td>cell 3</td>
+</tr>
+<tr>
+<td>cell 1</td>
+<td>cell 2</td>
+<td>cell 3</td>
+</tr>
+</table>
+   </body>
+	
+</html>
